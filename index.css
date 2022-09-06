@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+    color:black
+}
+p{
+    color:brown;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.dark p{
+
+    color:red
+}
