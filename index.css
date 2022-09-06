@@ -5,12 +5,12 @@ body{
 p{
     color:brown;
 }
-.dark{
+.dark-mode{
     background-color: black;
     color: white;
 }
 
-.dark p{
+.dark-mode p{
 
     color:red
 }
